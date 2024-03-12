@@ -1,0 +1,27 @@
+.table-content {
+  margin-top: 50px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.no-data {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #000;
+  font-weight: 700;
+}
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid rgb(222, 226, 230);
+}
+
